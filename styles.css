@@ -251,3 +251,15 @@ body {
     width: 100%;
 }
 
+.hero-text-big {
+    font-size: 18px !important;
+    margin-left: 20px;
+    line-height: 1.5;
+}
+
+.hero-img2-const {
+    width: 500px;
+    height: 625/2px;
+    object-fit: cover;
+    border-radius: 10px;
+}
